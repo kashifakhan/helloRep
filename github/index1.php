@@ -4,5 +4,6 @@ echo "simple Index file";
 ?>
 <?php 
 echo "second edited";
+?>
 
 
